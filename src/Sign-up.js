@@ -64,7 +64,7 @@ const Sign = () => {
             required
           />
          
-          <button type="submit">Add Comment</button>
+          <button type="submit">Register</button>
         </form>
       </div>
     </>
